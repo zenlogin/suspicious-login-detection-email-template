@@ -1,0 +1,31 @@
+
+Zenlogin
+********
+
+We noticed a new login on your account.
+
+-------------------------------
+Near:       Toronto, Canada
+Device:     Apple Mac
+Browser:    Chrome
+When:       May 26 at 2:31pm (EDT)
+IP:         76.9.195.82
+-------------------------------
+
+Contact Support:
+mailto:support@zenlogin.co
+
+-------------
+**If this was you,** there's nothing you need to do.
+
+**If this wasn't you,** it's possible someone has access to your login details and used them to log into your account. To protect your account, reset your password <https://google.com/link> as soon as possible.
+-------------
+
+© 2024 Zenlogin. All rights reserved.
+Zenlogin
+Toronto, Canada
+
+
+------------------------------
+Security key: emntq3lmop0xe3sf
+------------------------------
