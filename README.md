@@ -4,7 +4,7 @@ This repository includes two files: `html-template.html` and `plain-text-templat
 These are free to use (MIT licensed). We just ask (naturally) that you don't use the deep-linked assets (the icons). The reason is, we may change the host / URL in the future, and this would break your emails.
 
 # Email Preview
-Below you can see a previous of what this email looks like
+Below you can see a previous of what this email looks like:  
 <img src="https://github.com/zenlogin/suspicious-login-detection-email-template/assets/612938/a0708f4f-d630-4d20-b180-8995dbb70d4e" width="400" />
 
 # About Zenlogin
